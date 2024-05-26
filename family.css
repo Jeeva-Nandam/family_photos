@@ -1,0 +1,10 @@
+.bg{
+    height: 100vh;
+    background-size: cover;
+}
+.bg-color{
+    background-color: rgb(174, 235, 237);
+}
+.font{
+    font-family: "caveat";
+}
